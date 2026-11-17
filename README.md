@@ -2,6 +2,8 @@
 
 An end-to-end semantic search application powered by vector embeddings, ChromaDB, and Streamlit. Rather than relying on traditional keyword or substring matching, this project leverages transformer-based sentence embeddings to capture semantic meaning—allowing users to search for movies using natural language plot descriptions, themes, or abstract concepts.
 
+**Deployed App:** https://aipi510-week13-movie-search.streamlit.app/
+
 ## Architecture & Workflow
 
 The application is designed around a decoupled two-stage pipeline separating offline data ingestion from real-time inference:
